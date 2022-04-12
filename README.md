@@ -2,7 +2,7 @@
 
 <h3 align="center">I'm Junior React Developer and work with modern Web technoligies and make layouts of static web pages as well as reactive interfaces using React and Redux libraries. I progress towards becoming a fullstack developer and I'm working to able to deal with all frameworks like Angular and Vue, even though my main focus will be React. Currently I'm looking for fulltime remote employment.</h3>
 
-- 📄 Моё резюме можно посмотреть здесь: [https://www.dropbox.com/s/44zry1sawj6ul5q/Resume%20Russian.pdf?dl=0](https://www.dropbox.com/s/44zry1sawj6ul5q/Resume%20Russian.pdf?dl=0)
+- <a href="https://www.dropbox.com/s/r6lbcb39oejolp1/Resume%20Vysotskii%20Artem.pdf?dl=0" target="_blank" rel="noreferrer">Моё резюме</a>
 - <a href="https://vysotskii.vercel.app/" target="_blank" rel="noreferrer">My portfolio</a>
 
 <h1 align="center">Привет 👋, меня зовут Высоцкий Артём</h1>
