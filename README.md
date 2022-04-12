@@ -7,11 +7,11 @@
 
 - 📄 Моё резюме можно посмотреть здесь: [https://www.dropbox.com/s/44zry1sawj6ul5q/Resume%20Russian.pdf?dl=0](https://www.dropbox.com/s/44zry1sawj6ul5q/Resume%20Russian.pdf?dl=0)
 - 
-- <a href="https://www.dropbox.com/s/r6lbcb39oejolp1/Resume%20Vysotskii%20Artem.pdf?dl=0](https://www.dropbox.com/s/r6lbcb39oejolp1/Resume%20Vysotskii%20Artem.pdf?dl=0" target="_blank" rel="noreferrer">My resume</>
+- <a href="https://www.dropbox.com/s/r6lbcb39oejolp1/Resume%20Vysotskii%20Artem.pdf?dl=0](https://www.dropbox.com/s/r6lbcb39oejolp1/Resume%20Vysotskii%20Artem.pdf?dl=0" target="_blank" rel="noreferrer">My resume</a>
 
 - 📄 You can view my resume here [https://www.dropbox.com/s/r6lbcb39oejolp1/Resume%20Vysotskii%20Artem.pdf?dl=0](https://www.dropbox.com/s/r6lbcb39oejolp1/Resume%20Vysotskii%20Artem.pdf?dl=0)
 
-- <a href="https://vysotskii.vercel.app/" target="_blank" rel="noreferrer">My portfolio</>
+- <a href="https://vysotskii.vercel.app/" target="_blank" rel="noreferrer">My portfolio</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
