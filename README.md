@@ -22,4 +22,4 @@
 
 [![orangeBisquit's GitHub stats](https://github-readme-stats.vercel.app/api?username=orangeBisquit&count_private=true&show_icons=true&&theme=gruvbox&border_radius=30&border_color=FD7F19)](https://github.com/orangeBisquit/github-readme-stats)
 
-[![orangeBisquit's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=orangeBisquit)](https://github.com/orangeBisquit/github-readme-stats)
+[![orangeBisquit's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=orangeBisquit&show_icons=true&&theme=gruvbox&border_radius=30&border_color=FD7F19)](https://github.com/orangeBisquit/github-readme-stats)
