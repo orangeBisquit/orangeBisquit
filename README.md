@@ -2,14 +2,14 @@
 
 <h3 align="center">I'm Junior React Developer and work with modern Web technoligies and make layouts of static web pages as well as reactive interfaces using React and Redux libraries. I progress towards becoming a fullstack developer and I'm working to able to deal with all frameworks like Angular and Vue, even though my main focus will be React. Currently I'm looking for fulltime remote employment.</h3>
 
-- <a href="https://github.com/orangeBisquit/resume_ru/blob/f405500bfe5c69e0605e17e19a9eaa6ead0fa8bc/resume.pdf" target="_blank" rel="noreferrer">My resume</a>
+- <a href="https://drive.google.com/file/d/1r1XjB5BxKJUjESl9x5E1uMc8PTP9VxU_/view" target="_blank" rel="noreferrer">My resume</a>
 - <a href="https://vysotskii.vercel.app/" target="_blank" rel="noreferrer">My portfolio</a>
 
 <h1 align="center">Привет 👋, меня зовут Высоцкий Артём</h1>
 
 <h3 align="center">Я Junior React Разработчик и работаю с современными web технологиями и разрабатываю как статичные сайты, так и реактивные интерфейсы с помощью React/Redux. Я развиваюсь в сторону fullstack разработчика и хотел бы познакомиться в том числе с Vue и Angular, а в дальнейшем разрабатывать в MERN/MEAN стаке. В данный момент ищу удаленную работу и также рассматриваю релокацию.</h3>
 
-- <a href="https://github.com/orangeBisquit/resume_ru/blob/f405500bfe5c69e0605e17e19a9eaa6ead0fa8bc/resume.pdf" target="_blank" rel="noreferrer">Моё резюме</a>
+- <a href="https://drive.google.com/file/d/1r1XjB5BxKJUjESl9x5E1uMc8PTP9VxU_/view" target="_blank" rel="noreferrer">Моё резюме</a>
 - <a href="https://vysotskii.vercel.app/" target="_blank" rel="noreferrer">Моё портфолио</a>
 
 <h3 align="left">Connect with me:</h3>
