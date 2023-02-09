@@ -2,7 +2,7 @@
 
 <h3 align="center">I'm Javascript/React Developer and work with modern Web technoligies and make layouts of static web pages as well as reactive interfaces using React/Redux/Typescript. I progress towards becoming a fullstack developer and I'm working to able to deal with all frameworks like Angular and Vue, as well as backend technologies such as Node.js, Express.js and MongoDB. Currently I'm looking for fulltime remote employment or internship.</h3>
 
-- <a href="https://drive.google.com/file/d/1QFNOn07pLgwzr0G7CwhTwWMWlEhyv4gQ/view" target="_blank" rel="noreferrer">My CV (EN)</a>
+- <a href="https://drive.google.com/file/d/1KWHlVNOYpr3B8Xb3hsplbtApYABEum23/view?usp=sharing" target="_blank" rel="noreferrer">My CV (EN)</a>
 - <a href="https://www.vysotskii.com/" target="_blank" rel="noreferrer">My portfolio</a>
 
 <h1 align="center">Привет 👋, меня зовут Высоцкий Артём</h1>
