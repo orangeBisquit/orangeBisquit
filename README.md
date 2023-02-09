@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, my name is Artem Vysotskii</h1>
 
-<h3 align="center">I'm Javascript/React Developer and work with modern Web technoligies and make layouts of static web pages as well as reactive interfaces using React/Redux/Typescript. I progress towards becoming a fullstack developer and I'm working to able to deal with all frameworks like Angular and Vue, as well as backend technologies such as Node.js, Express.js and MongoDB. Currently I'm looking for fulltime remote employment or internship.</h3>
+<h3 align="center">I'm Frontend | React Developer with over 2.5 years of experience and I bring a strong track record of delivering high-quality digital solutions. My expertise in using cutting-edge web technologies to design both static web pages and reactive interfaces using React, Redux, and TypeScript, along with my comprehensive understanding of responsive web design using HTML and CSS and advanced JavaScript functionality, positions me well to contribute significantly to your team. I am continuously expanding my knowledge of backend technologies such as Node.js, Express.js, and MongoDB as I work towards becoming a full-stack developer. With a passion for creating impactful and user-centric digital solutions, I am eager to tackle new challenges and help organizations achieve their goals.</h3>
 
 - <a href="https://drive.google.com/file/d/1KWHlVNOYpr3B8Xb3hsplbtApYABEum23/view?usp=sharing" target="_blank" rel="noreferrer">My CV</a>
 - <a href="https://www.vysotskii.com/" target="_blank" rel="noreferrer">My portfolio</a>
